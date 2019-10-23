@@ -1,17 +1,24 @@
 # CVPR2018_attention
+*Semantic Segmentation*
+
+
 Context Encoding for Semantic Segmentation  
+On the Robustness of Semantic Segmentation Models to Adversarial Attacks  
+Learning a Discriminative Feature Network for Semantic Segmentation  
+Revisiting Dilated Convolution: A Simple Approach for Weakly- and Semi- Supervised Semantic Segmentation  
+DenseASPP: Densely Connected Networks for Semantic Segmentation
+Fully Convolutional Adaptation Networks for Semantic Segmentation 
+
+
 MegaDepth: Learning Single-View Depth Prediction from Internet Photos  
 LiteFlowNet: A Lightweight Convolutional Neural Network for Optical Flow Estimation  
 PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume  
-On the Robustness of Semantic Segmentation Models to Adversarial Attacks  
 SPLATNet: Sparse Lattice Networks for Point Cloud Processing  
 Left-Right Comparative Recurrent Model for Stereo Matching  
 Enhancing the Spatial Resolution of Stereo Images using a Parallax Prior  
 Unsupervised CCA  
 Discovering Point Lights with Intensity Distance Fields  
 CBMV: A Coalesced Bidirectional Matching Volume for Disparity Estimation  
-Learning a Discriminative Feature Network for Semantic Segmentation  
-Revisiting Dilated Convolution: A Simple Approach for Weakly- and Semi- Supervised Semantic Segmentation  
 Unsupervised Deep Generative Adversarial Hashing Network  
 Monocular Relative Depth Perception with Web Stereo Data Supervision  
 Single Image Reflection Separation with Perceptual Losses  
@@ -26,9 +33,7 @@ Tell Me Where To Look: Guided Attention Inference Network
 Residual Dense Network for Image Super-Resolution  
 Reflection Removal for Large-Scale 3D Point Clouds  
 PlaneNet: Piece-wise Planar Reconstruction from a Single RGB Image  
-Fully Convolutional Adaptation Networks for Semantic Segmentation  
-CRRN: Multi-Scale Guided Concurrent Reflection Removal Network  
-DenseASPP: Densely Connected Networks for Semantic Segmentation  
+CRRN: Multi-Scale Guided Concurrent Reflection Removal Network   
 SGAN: An Alternative Training of Generative Adversarial Networks  
 Multi-Agent Diverse Generative Adversarial Networks  
 Robust Depth Estimation from Auto Bracketed Images  
@@ -39,7 +44,7 @@ GeoNet: Geometric Neural Network for Joint Depth and Surface Normal Estimation
 Single-Image Depth Estimation Based on Fourier Domain Analysis  
 Single View Stereo Matching  
 Pyramid Stereo Matching Network 
-A Unifying Contrast Maximization Framework for Event Cameras, with Applications to Motion, Depth, and Optical Flow Estimation  
+A Unifying Contrast Maximization Framework for Event Cameras, with Applications to Motion, Depth, and Optical Flow Estimation 
 Image Correction via Deep Reciprocating HDR Transformation 
 Occlusion Aware Unsupervised Learning of Optical Flow 
 PAD-Net: Multi-Tasks Guided Prediciton-and-Distillation Network for Simultaneous Depth Estimation and Scene Parsing 
