@@ -9,6 +9,10 @@ Revisiting Dilated Convolution: A Simple Approach for Weakly- and Semi- Supervis
 DenseASPP: Densely Connected Networks for Semantic Segmentation
 Fully Convolutional Adaptation Networks for Semantic Segmentation 
 
+# CVPR2019
+FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference
+https://arxiv.org/abs/1902.10421 (weekly-supervised)
+
 
 MegaDepth: Learning Single-View Depth Prediction from Internet Photos  
 LiteFlowNet: A Lightweight Convolutional Neural Network for Optical Flow Estimation  
